@@ -6,3 +6,4 @@ git fetch
 git push
 git config --global
 git branch
+git log --author="username" --grep="added"
